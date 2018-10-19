@@ -1,6 +1,0 @@
-# mywayapp02
-
-
-hello
-
-
