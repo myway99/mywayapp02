@@ -1,6 +1,7 @@
 dfe
 d
 ddd
+<<<<<<< HEAD
 fff
 
 it is  lua
@@ -9,3 +10,6 @@ good afternoon
 
 
 myway
+=======
+fff
+>>>>>>> parent of 0e6280c... test lua
